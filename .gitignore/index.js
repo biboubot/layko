@@ -335,4 +335,4 @@ message.channel.sendEmbed(embed);
 
 
 
-bot.login("NTYxOTkyMDIzMjg0OTA4MDY5.XKJASQ.oHoIvx-sZ8cieQn9KDn1RWnB1uE");
+bot.login(process.env.TOKEN);
